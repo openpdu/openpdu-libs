@@ -1,7 +1,7 @@
 # Contributor: Paolo Asperti <paolo@asperti.com>
 # Maintainer: Paolo Asperti <paolo@asperti.com>
 pkgname=openpdu-libs
-pkgver=0.1.0
+pkgver=0.1.1
 pkgrel=1
 pkgdesc="OpenPDU project - misc python libraries"
 url="https://github.com/openpdu/openpdu-libs"
